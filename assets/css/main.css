@@ -13,17 +13,13 @@
 
 .black-field {
   padding: calc(100% / 16);
-  height: calc(100% / 8);
   display: inline-block;
-  width:calc(100% / 8);
   background: #855E42;
 }
 
 .white-field {
   padding: calc(100% / 16);
-  height: calc(100% / 8);
   display: inline-block;
-  width:calc(100% / 8);
   background: #EAE4DC;
 }
 
